@@ -7,7 +7,7 @@
     "react-dom": "^18.0.0"
   },
   "scripts": {
-    "start": "webpack serve --mode development --open",
-    "build": "webpack --mode production"
+    "start": "webpack serve --mode development --open --config ../webpack.config.js",
+    "build": "webpack --mode production --config ../webpack.config.js"
   }
 }
