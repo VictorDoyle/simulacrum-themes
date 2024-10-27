@@ -1,0 +1,13 @@
+{
+  "name": "shop-template",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  }
+}

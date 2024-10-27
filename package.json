@@ -1,0 +1,17 @@
+{
+  "name": "simulacrum-themes",
+  "version": "1.0.0",
+  "description": "Theme templates for the Simulacrum core application",
+  "keywords": [
+    "templates",
+    "website",
+    "react",
+    "simulacrum"
+  ],
+  "author": "Victor Doyle",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
