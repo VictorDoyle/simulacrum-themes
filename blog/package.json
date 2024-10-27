@@ -7,7 +7,10 @@
     "react-dom": "^18.0.0"
   },
   "scripts": {
-    "start": "webpack serve --mode development --open --config ../webpack.config.js",
-    "build": "webpack --mode production --config ../webpack.config.js"
+    "build": "echo 'Building handled by simulacrum'",
+    "start": "echo 'Run through simulacrum package'"
+  },
+  "peerDependencies": {
+    "simulacrum": "^1.0.0"
   }
 }
