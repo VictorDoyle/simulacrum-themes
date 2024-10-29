@@ -7,8 +7,8 @@
     "react-dom": "^18.0.0"
   },
   "scripts": {
-    "build": "echo 'Building handled by simulacrum'",
-    "start": "echo 'Run through simulacrum package'"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "peerDependencies": {
     "simulacrum": "^1.0.0"
